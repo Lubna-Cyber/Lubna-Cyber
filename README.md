@@ -3,7 +3,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=37&pause=1000&color=(94, 168, 50)&random=false&width=1000&height=100&lines=+Ex-Techo-Functional+Consultant+at+ Triknow+Innovations+LLC; Learning+Web-Development+at+Kodvidya+Academy;" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=37&pause=1000&color=(94,168,50)&random=false&width=1000&height=80&lines=+Ex-Techo-Functional+Consultant+at+ Triknow+Innovations+LLC; Learning+Web-Development+at+Kodvidya+Academy;" alt="Typing SVG" /></a></p>
+  
 - 🌱 I’m Currently learning and exploring things🦋💫
 
 - 📫 How to reach me **rajputlubna30@gmail.com**
