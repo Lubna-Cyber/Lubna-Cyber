@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lubna Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=lubna-cyber](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="lubna-cyber" /></p>
-
-- 🌱 I’m currently learning **JavaScript**
+<p align="center">
+<a href="https://git.io/typing-svg">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=37&pause=1000&color=(94, 168, 50)&random=false&width=1000&height=100&lines=+Ex-Techo-Functional+Consultant+at+ Triknow+Innovations+LLC; Learning+Web-Development+at+Kodvidya+Academy;" alt="Typing SVG" /></a></p>
+- 🌱 I’m Currently learning and exploring things🦋💫
 
 - 📫 How to reach me **rajputlubna30@gmail.com**
 
