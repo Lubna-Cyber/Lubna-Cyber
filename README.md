@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lubna Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<a href="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Lubna singh" height=30 width=40></a>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=lubna-cyber](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="lubna-cyber" /></p>
 
 - 🌱 I’m currently learning **JavaScript**
 
